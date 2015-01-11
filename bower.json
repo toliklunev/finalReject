@@ -1,0 +1,25 @@
+{
+  "name": "finalReject",
+  "version": "0.1.0",
+  "homepage": "https://github.com/codefucker/finalReject",
+  "authors": [
+    "codefucker <toliklunev@ya.ru>"
+  ],
+  "description": "finalReject — plugin that displays the popup with a proposal to upgrade browser in older versions of Internet Explorer.",
+  "main": "[src/reject.js, src/reject.scss]",
+  "keywords": [
+    "ie",
+    "internet explorer",
+    "old",
+    "reject",
+    "popup"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
