@@ -1,4 +1,4 @@
-/* finalReject v0.1 | http://codefucker.github.io/finalReject/
+/* finalReject v0.1 | http://github.com/codefucker/finalReject/
  * © Anatoly Lunev | toliklunev.ru | toliklunev@gmail.com
  * Licensed under the MIT License */
 
